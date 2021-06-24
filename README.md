@@ -1,1 +1,1 @@
-Download mondo RDF file .
+Download go RDF file .
